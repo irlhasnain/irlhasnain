@@ -21,5 +21,5 @@ Data Science & ML enthusiast, currently exploring applied machine learning, fina
 - **[cognifyz-data-science-internship](https://github.com/irlhasnain/cognifyz-data-science-internship)** — Restaurant data analysis, feature engineering & predictive modeling (Cognifyz Technologies Internship)
 
 ### 📊 GitHub Stats
-![Hasnain's GitHub stats](https://github-readme-stats.vercel.app/api?username=irlhasnain&show_icons=true&theme=radical)
+![Hasnain's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=irlhasnain&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irlhasnain&layout=compact&theme=radical)

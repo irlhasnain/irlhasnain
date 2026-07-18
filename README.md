@@ -2,7 +2,7 @@
 
 Data Science & ML enthusiast, currently exploring applied machine learning, financial sentiment analysis, and Python-based tooling.
 
-- 🔭 Currently working on churn prediction, market-sentiment analysis, and internal tooling projects
+- 🔭 Currently working on Retail Sale analytics
 - 🌱 Learning: feature engineering, applied NLP, and secure Python development
 - 💬 Ask me about: Python, Jupyter/pandas workflows, predictive modeling
 - 📫 Reach me: hasnainkh3011@gmail.com

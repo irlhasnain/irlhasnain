@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi,%20I'm%20Hasnain%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%26%20Applied%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi,%20I'm%20Hasnain%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%2B%20Applied%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Building+ML+Systems+That+Ship;SQL+%2B+Python+%2B+FastAPI+%2B+ML;Exploring+Applied+NLP+%26+Financial+Sentiment;Open+to+Data+Science+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Building+ML+Systems+That+Ship;SQL+%2B+Python+%2B+FastAPI+%2B+ML;Exploring+Applied+NLP+%2B+Financial+Sentiment;Open+to+Data+Science+Internships" alt="Typing SVG" />
 
 </div>
 
@@ -105,8 +105,6 @@ AI Fluency (Anthropic) · Build an AI Agent · Make Agentic AI Work for You · G
 <div align="center">
 <img src="https://raw.githubusercontent.com/irlhasnain/irlhasnain/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
-> ⚙️ *To enable the snake animation above: add a GitHub Actions workflow (`Platane/snk`) to your profile repo — it auto-generates and updates this on a schedule. Ask me if you want the exact workflow file.*
 
 ---
 
